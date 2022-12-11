@@ -33,3 +33,8 @@ if (answer) {
 * Udemy. Web-developer 2022. (in process)
 * Udemy. JavaScript + React. (in process)
 * Belarusian National Technical University
+
+## Languages
+
+Russian - native speaker.\
+English - so-so)
