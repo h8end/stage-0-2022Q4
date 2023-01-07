@@ -1,0 +1,148 @@
+body {
+    margin: 0 ;
+    
+}
+
+header {
+    position: relative;
+	height: 45px;
+}
+
+nav {
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	background-color: #212121;
+    z-index: 2
+}
+
+.menu  {
+    display: flex;
+	justify-content: space-between;
+	padding: 15px 70px;
+	margin: 0;
+	list-style-type: none;
+}
+
+.menu_link {
+    color: #ffffff;
+	font-size: 15px;
+	font-weight: 300;
+	text-decoration: none; 
+}
+.col-md-5 {
+    padding: 0 0;
+}
+.subheader {
+    position: absolute;
+	top: 50px;
+	width: 100%;
+	min-height: 500px;
+	background-color: #302d21ce;
+}
+.subheader_logo {
+    display: flex;
+	width: 400px;
+    height: 400px;
+	margin: 30px 30px 30px 0;
+}
+.subheader_official {
+    margin: 30px 0 120px 0;
+	opacity: 1;
+	color: #ffffff;
+	font-size: 40px;
+	font-weight: 400;
+}
+.subheader_call {
+    display: block;
+	margin-top: 10px;
+    margin-bottom: 35px;
+	color: #ffffff;
+	font-size: 30px;
+	font-weight: 400;
+	text-transform: uppercase;
+	text-align: left;
+	line-height: 30px;
+	text-decoration: none;
+}
+.subheader_contacts {
+    display: block;
+	margin-top: 15px;
+	color: #ffffff;
+	font-size: 22px;
+	font-weight: 400;
+	text-align: left;
+	line-height: 22px;
+	text-decoration: none;
+}
+
+.my {
+    min-height: 550px;
+    margin-top: 505px;
+    background-color: #302d21ce;
+}
+.row-cols-2 {
+    border: 1px solid #ffffff;
+}
+.my_block {
+    display: block;
+	padding: 30px;
+}
+.my_skills {
+	color: #ffffff;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 23px;
+}
+.aboutme {
+    min-height: 150px;
+    background-color: #302d21ce;
+}
+.abouteme_header {
+	margin: 0px;
+    text-align: center;
+	color: #ffffff;
+	font-size: 30px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+.abouteme_subheader {
+    text-align: center;
+    color: #ffffff;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 23px;
+}
+footer {
+    height: 50px;
+	padding: 20px auto;
+    background-color: #212121;
+}
+.footer_divider {
+    width: 300px;
+	height: 1px;
+	background-color: #ffffff;
+	margin: -13px auto;
+}
+
+.year {
+    margin-top: 30px;
+    text-align: center;
+    color: #000000;;
+    font-size: 20px;
+	font-weight: 400;
+}
+.git_logo {
+    margin-left: 370px;
+    display: flex;
+    margin-top: 25px;
+    width: 30px;
+    height: 30px;
+}
+.rs_logo {
+    margin-left: 30px;
+    display: flex;
+    margin-top: 20px;
+    width: 80px;
+    height: 40px;
+}
